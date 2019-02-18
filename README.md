@@ -1,2 +1,3 @@
 # Artificial-Intelligence-Course-Project
-Artificial Intelligence Course Project 1
+
+README.md -> WORK IN PROGRESS
